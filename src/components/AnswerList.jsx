@@ -8,7 +8,7 @@ function AnswerList(){
                 <p>Sau đây là cách đơn giản nhất để đặt đồ ăn qua GrabFood khi bạn ở Việt Nam:</p>
                 <ol>
                     <li>
-                        <strong>Tìm kiếm nhà hàng hoặc món ăn yêu thích</strong> - Nhập địa chỉ của bạn vào trang chủ. Xem các Nhà hàng và điểm ăn uống gần chỗ bạn trong danh sách của GrabFood. Chọn nhà hàng yêu thích, duyệt hết thực đơn và chọn món ăn bạn muốn đặt.
+                        <strong>Tìm kiếm nhà hàng hoặc món ăn yêu thích</strong> - Nhập địa chỉ của bạn vào trang chủ.Xem các Nhà hàng và điểm ăn uống gần chỗ bạn trong danh sách của GrabFood. Chọn nhà hàng yêu thích, duyệt hết thực đơn và chọn món ăn bạn muốn đặt.
                         </li>
                     <li>
                         <strong>Kiểm tra & Thanh toán</strong> - Sau khi chắc chắn rằng bạn đã đặt đầy đủ các món theo nhu cầu, hãy nhấp vào tab “ORDER NOW” (ĐẶT MÓN NGAY) và nhập địa chỉ giao đồ ăn cuối cùng. Chọn phương thức thanh toán phù hợp nhất với bạn và thanh toán.
