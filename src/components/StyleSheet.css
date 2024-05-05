@@ -1,0 +1,37 @@
+.bg-green{
+    background-color: #00b14f;
+}
+.custom-why-use-list li::before{
+    content: "\2713"; /* Mã Unicode của dấu tích */
+    display: inline-block;
+    width: 1em; /* Đảm bảo khoảng cách giữa dấu tích và văn bản */
+    margin-left: -1em;
+    font-weight: 400;
+    color: #00B14F;
+}
+.btn-see-more-question{
+    border: solid 1px  ;
+    border-width: 1px;
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    margin-block: 20px;
+    color:#b3b3b3;
+}
+.btn-see-more-question:hover{
+    color: #00B14F;
+}
+#a{
+    text-decoration: none;
+    color: #b3b3b3;
+}
+#a:hover{
+    color: #00B14F;
+}
+.card{
+    margin-inline: 10px;
+}
+.card:hover {
+    outline: solid 3px #00B14F;
+  }
